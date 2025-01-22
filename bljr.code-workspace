@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "bljr",
+			"path": "../../.."
+		},
+		{
+			"name": "Belajar_Java",
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"jdk.runConfig.vmOptions": ">"
+	}
+}
